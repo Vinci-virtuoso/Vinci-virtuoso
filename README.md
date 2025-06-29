@@ -30,6 +30,7 @@ An AI automation agency helping SMEs grow **without needing more hires**. We des
 
 - 🐦 Twitter/X: [@vinci_virtuoso](https://x.com/vinci_virtuoso?s=21)
 - 💼 Let’s collaborate or chat AI: 5eun3isiyktv@gmail.com
+- Thread: https://www.threads.com/@vincivirtuoso
 
 ---
 
