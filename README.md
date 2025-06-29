@@ -9,7 +9,7 @@ An AI automation agency helping SMEs grow **without needing more hires**. We des
 
 ## 🧠 What I Do
 
-- 🤖 Design and deploy **LLM-based agents** for operations, support, and lead handling  
+- 🤖 Design and deploy **Autonomous systems**   
 - 🛠️ Automate end-to-end business processes using AI agents
 - 🚀 Build MVPs fast — from idea to working prototype in **2 weeks or less**
 
