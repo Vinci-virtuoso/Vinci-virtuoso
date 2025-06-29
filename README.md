@@ -19,8 +19,6 @@ An AI automation agency helping SMEs grow **without needing more hires**. We des
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-3c3c3c?logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/-LangGraph-202124)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
