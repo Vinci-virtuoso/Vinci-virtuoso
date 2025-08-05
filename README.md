@@ -1,10 +1,6 @@
 # 👋 Hi, I'm Olabisi Oluwaseun
 
 🚀 I build AI agentic applications, automate business workflows, and rapidly turn bold ideas into working MVPs in under **2 weeks** — all powered by AI.
-
-### 🏗️ Currently Building: [@cribblrAI](https://x.com/cribblrAI)
-An AI automation agency helping SMEs grow **without needing more hires**. We design AI agents that take on your repetitive tasks so your team can focus on what matters.
-
 ---
 
 ## 🧠 What I Do
