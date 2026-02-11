@@ -1,12 +1,12 @@
 #  Hi, I'm Olabisi Oluwaseun
 
- I build AI agentic applications, automate business workflows, and rapidly turn bold ideas into working MVPs in under **2 weeks** — all powered by AI.
+ I build agentic applications, automate business workflows, and rapidly turn bold ideas into working MVPs in under **2 weeks** 
 ---
 
 ##  What I Do
 
 - Design and deploy **Autonomous systems**   
--  Automate end-to-end business processes using AI agents
+-  Automate end-to-end business processes 
 -  Build MVPs fast — from idea to working prototype in **2 weeks or less**
 
 ---
@@ -25,7 +25,7 @@
 ##  Connect with Me
 
 - 🐦 Twitter/X: [@vinci_virtuoso](https://x.com/vinci_virtuoso?s=21)
-- 💼 Let’s collaborate or chat AI: 5eun3isiyktv@gmail.com
+- 💼 Let’s collaborate or chat: 5eun3isiyktv@gmail.com
 
 ---
 
