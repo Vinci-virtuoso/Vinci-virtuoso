@@ -1,17 +1,17 @@
-# 👋 Hi, I'm Olabisi Oluwaseun
+#  Hi, I'm Olabisi Oluwaseun
 
-🚀 I build AI agentic applications, automate business workflows, and rapidly turn bold ideas into working MVPs in under **2 weeks** — all powered by AI.
+ I build AI agentic applications, automate business workflows, and rapidly turn bold ideas into working MVPs in under **2 weeks** — all powered by AI.
 ---
 
-## 🧠 What I Do
+##  What I Do
 
-- 🤖 Design and deploy **Autonomous systems**   
-- 🛠️ Automate end-to-end business processes using AI agents
-- 🚀 Build MVPs fast — from idea to working prototype in **2 weeks or less**
+- Design and deploy **Autonomous systems**   
+-  Automate end-to-end business processes using AI agents
+-  Build MVPs fast — from idea to working prototype in **2 weeks or less**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
@@ -22,11 +22,10 @@
 
 ---
 
-## 📬 Connect with Me
+##  Connect with Me
 
 - 🐦 Twitter/X: [@vinci_virtuoso](https://x.com/vinci_virtuoso?s=21)
 - 💼 Let’s collaborate or chat AI: 5eun3isiyktv@gmail.com
-- Thread: https://www.threads.com/@vincivirtuoso
 
 ---
 
