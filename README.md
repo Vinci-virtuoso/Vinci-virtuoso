@@ -1,4 +1,4 @@
-#  Hi, I'm Olabisi Oluwaseun
+#  Hi, I'm Vinci
 
  I build agentic applications, automate business workflows, and rapidly turn bold ideas into working MVPs in under **2 weeks** 
 ---
