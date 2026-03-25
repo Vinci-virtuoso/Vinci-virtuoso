@@ -21,12 +21,6 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 
 ---
-
-##  Connect with Me
-
-- 🐦 Twitter/X: [@vinci_virtuoso](https://x.com/vinci_virtuoso?s=21)
-- 💼 Let’s collaborate or chat: 5eun3isiyktv@gmail.com
-
 ---
 
 > _"Build systems, not stress."_  
